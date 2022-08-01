@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "hogar",
+        "costo": 1500,
+        "img": "./../img/seguroHogar.jpg"
+    },
+    {
+        "nombre": "tecnologia",
+        "costo": 1000,
+        "img": "./../img/seguroTecnologia.jfif"
+    },
+    {
+        "nombre": "vida",
+        "costo": 750,
+        "img": "./../img/seguroVida.png"
+    },
+    {
+        "nombre": "bolso",
+        "costo": 500,
+        "img": "./../img/seguroBolso.jpg"
+    }
+]

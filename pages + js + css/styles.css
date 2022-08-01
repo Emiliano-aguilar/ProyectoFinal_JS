@@ -1,0 +1,47 @@
+.letraCursiva{
+    font-style: italic;
+}
+
+.centrar{
+    text-align: center;
+}
+
+.izquierda{
+    text-align: right;
+}
+
+.segurosMostrados{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;  
+  
+}
+.imagenSeguro{
+    width: 300px; 
+    height: 225px ;
+     margin: 10px;
+     
+}
+.carritoSeguro{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 50%;
+    
+}
+
+.fondo{
+    background-image: url("./../img/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+   
+}
+
+.agregadoAlCarrito{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 25px;
+}
+
