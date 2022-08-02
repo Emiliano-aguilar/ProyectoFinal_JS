@@ -100,7 +100,7 @@ const contenerDeProcutos = document.getElementById("cuerpoHTML")
 contenerDeProcutos.classList.add("segurosMostrados")
 
 const mostrarSeguros = async () => {
-    fetch("./seguros.json")
+    fetch("./pages + js + css/seguros.json")
         .then(response => response.json())
         .then(data => {
             listaSeguros = data;
